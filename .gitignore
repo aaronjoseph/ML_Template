@@ -131,12 +131,14 @@ dmypy.json
 # Idea Files
 *.idea
 
-#Input Data and Models
+#Input Data, ipynb notebook and Models
 input/
 model/
+notebook/
 
 #Data Files
 *.csv
 *.h5
 *.pkl
 *.pth
+
